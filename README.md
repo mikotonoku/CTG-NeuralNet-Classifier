@@ -7,6 +7,8 @@ The purpose of the task was to create and train a neural network capable of clas
 * Compare **at least three different network structures**.
 * Perform **testing** on samples from **each disease category** using the best-trained network.
 
+> :paperclip: *Additionally, documentation in **Russian and Slovak** will soon be available in the files `README_rus.md` and `README_slk.md`*
+
 *Content of the documentation* :arrow_down:
 ## Content:
 >* :repeat: [Description of Input and Output Data](#repeat-description-of-input-and-output-data)
@@ -286,7 +288,7 @@ The number of neurons was set to **100** as an illustrative example.
 
 ### :pill: Testing Samples from Each Disease Type for the Best-Trained Network
 ![image](https://github.com/user-attachments/assets/b414ac48-5039-40ce-b235-d14e0d113fc7)
-> :grey_exclamation: The result on the screenshot is **in Slovak**, while the output in the published code is **in English**.
+> :exclamation: The result on the screenshot is **in Slovak**, while the output in the published code is **in English**.
 
 🔎 **Overview:**  
 The image displays the **classification results** for samples from each disease category using the **best-trained neural network** (with an initial neuron count of 32).  
