@@ -11,8 +11,8 @@ The purpose of the task was to create and train a neural network capable of clas
 ## Content:
 >* :repeat: [Description of Input and Output Data](#repeat-description-of-input-and-output-data)
 >* :page_facing_up: [MLP Network Structure](#page_facing_up-mlp-network-structure)
->* :surfer: [Training Parameters](#surfer-training-parameters-classification)
->   * [Termination Conditions](#termination-conditions-classification)
+>* :surfer: [Training Parameters](#surfer-training-parameters)
+>   * [Termination Conditions](#termination-conditions)
 >   * [Criterion Function](#criterion-function)
 >* [Training Process and Contingency Matrix for the Best Network](training-process-and-contingency-matrix-for-the-best-network)
 >   * :chart_with_downwards_trend: [Training Process Progress Chart](#chart_with_downwards_trend-training-process-progress-chart)
@@ -130,6 +130,8 @@ The criterion function is **Mean Squared Error (MSE)**. This function is used to
 In the code:
 * Training stops when the MSE reaches the set **target value** of 0.001 (`net.trainParam.goal = 0.001`).
 
+>:arrow_left: [**Back to *CONTENT***](#content)
+>
 ### Training Process and Contingency Matrix for the Best Network
 > :grey_exclamation: *The best network was obtained with 32 initial neurons.*
 
