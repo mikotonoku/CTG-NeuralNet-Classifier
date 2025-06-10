@@ -16,13 +16,13 @@ The purpose of the task was to create and train a neural network capable of clas
 >   * [Criterion Function](#criterion-function)
 >* [Training Process and Contingency Matrix for the Best Network](#training-process-and-contingency-matrix-for-the-best-network)
 >   * :chart_with_downwards_trend: [Training Process Progress Chart](#chart_with_downwards_trend-training-process-progress-chart)
->   * :1234: [Contingency Matrix (plotconfusion)](1234-contingency-matrix-plotconfusion)
->* :clipboard: [Neural Network Testing](clipboard-neural-network-testing)
->* :page_facing_up: [Training Process and Contingency Matrix for Different Neuron Counts](page_facing_up-training-process-and-contingency-matrix-for-different-neuron-counts)
->   * [First Variant: 100 Neurons](first-variant-100-neurons)
->   * [Second Variant: 10 Neurons](second-variant-10-neurons)
->* :pill: [Testing Samples from Each Disease Type for the Best-Trained Network](pill-testing-samples-from-each-disease-type-for-the-best-trained-network)
->* :page_facing_up: [Classification Accuracy, Sensitivity, and Specificity](page_facing_up-classification-accuracy-sensitivity-and-specificity)
+>   * :1234: [Contingency Matrix (plotconfusion)](#1234-contingency-matrix-plotconfusion)
+>* :clipboard: [Neural Network Testing](#clipboard-neural-network-testing)
+>* :page_facing_up: [Training Process and Contingency Matrix for Different Neuron Counts](#page_facing_up-training-process-and-contingency-matrix-for-different-neuron-counts)
+>   * [First Variant: 100 Neurons](#first-variant-100-neurons)
+>   * [Second Variant: 10 Neurons](#second-variant-10-neurons)
+>* :pill: [Testing Samples from Each Disease Type for the Best-Trained Network](#pill-testing-samples-from-each-disease-type-for-the-best-trained-network)
+>* :page_facing_up: [Classification Accuracy, Sensitivity, and Specificity](#page_facing_up-classification-accuracy-sensitivity-and-specificity)
 
 ### :repeat: Description of Input and Output Data
 #### *INPUT DATA*
